@@ -10,3 +10,5 @@
 
 #### 排序
 [堆排序](https://github.com/liu12589/ALG--practice/blob/master/%E6%8E%92%E5%BA%8F/Heapsort.go)
+
+[快速排序](https://github.com/liu12589/ALG--practice/blob/master/%E6%8E%92%E5%BA%8F/quickSort.go)
